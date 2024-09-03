@@ -16,6 +16,8 @@ import LoadingScreen from "./components/LoadingScreen"; // Import the loading sc
 import rdImage from './assets/images/roadmap2.png';
 import main2 from './assets/images/main2.png';
 import main3 from './assets/images/BG.svg';
+import main4 from './assets/images/bgmap.png';
+
 import bgImage from './assets/images/main.png';
 import fullBg from './assets/images/fullBg.png';
 
@@ -49,7 +51,7 @@ const App = () => {
     return <LoadingScreen />;
   }
 return(
-  <main className="relative bg-[#cdd1ff] "  >
+  <main className="relative bg-[#b3ddd8] "  >
      {/* <Nav />  */}
    
 
@@ -58,7 +60,8 @@ return(
 
      <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main3})` }}><ComingSoon /></section>
      <Separator /> 
-     <Roadmap5 />
+     <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main4})` }}><Roadmap5 /></section>
+     
    
     {/* <Hero3 />
     <SeparatorReverse /> */}

@@ -22,7 +22,7 @@ const Roadmap5 = () => {
             href={card.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-white bg-opacity-20 backdrop-blur-lg p-6 rounded-xl text-center transition-transform transform hover:scale-105 hover:bg-opacity-30 hover:bg-gray-700 text-white"
+            className="bg-black bg-opacity-20 backdrop-blur-lg p-6 rounded-xl text-center transition-transform transform hover:scale-105 hover:bg-opacity-30 hover:bg-gray-700 text-white"
           >
             <h3 className="font-elite text-xl font-bold mb-4">{card.title}</h3>
             <p className="font-elite text-sm mb-4">{card.text}</p>

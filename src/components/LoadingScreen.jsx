@@ -23,7 +23,7 @@ const LoadingScreen = () => {
   }, []);
 
   return (
-    <div className="fixed inset-0 flex items-center justify-center bg-[#a7a7c5] z-50">
+    <div className="fixed inset-0 flex items-center justify-center bg-[#b3ddd8] z-50">
       <img ref={imageRef} src={loadingImage} alt="Loading" className="w-28 h-28" />
     </div>
   );
