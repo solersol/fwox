@@ -35,38 +35,39 @@ import buttonBg2 from './assets/images/buttonBg2.png'
 
 
 const App = () => {
-  // const [isLoading, setIsLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(true);
 
-  // useEffect(() => {
-  //   const timer = setTimeout(() => {
-  //     setIsLoading(false);
-  //   }, 1000); // Set the loading time to 3 seconds
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setIsLoading(false);
+    }, 1000); // Set the loading time to 3 seconds
 
-  //   return () => clearTimeout(timer);
-  // }, []);
+    return () => clearTimeout(timer);
+  }, []);
 
-  // if (isLoading) {
-  //   return <LoadingScreen />;
-  // }
+  if (isLoading) {
+    return <LoadingScreen />;
+  }
 return(
   <main className="relative bg-[#cdd1ff] "  >
-    {/* <Nav /> */}
+     <Nav /> 
    
 
   
 
 
-    {/* <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main3})` }}><ComingSoon /></section> 
+     <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main3})` }}><ComingSoon /></section>
+     <Separator /> 
    
-    <Hero3 />
-    <SeparatorReverse />
+    {/* <Hero3 />
+    <SeparatorReverse /> */}
     
-    */}
+    
   
 
-    <section className="w-full h-screen bg-cover bg-center   " style={{ backgroundImage: `url(${bgImage})` }}>
+    {/* <section className="w-full h-screen bg-cover bg-center   " style={{ backgroundImage: `url(${bgImage})` }}>
       <NewSection />
-    </section>
+    </section> */}
     {/* <Separator />
     <section className="w-full h-full bg-cover bg-center   " style={{ backgroundImage: `url(${buttonBg})` }}>
        <ButtonSection linkUrl="https://pump.fun/5eayDLdACv74f7hWWvZDEGaUAwHhg15XBL2hV8jFpump"  />
@@ -78,7 +79,7 @@ return(
        <ButtonSection2 />
     </section>
     <Footer2 linkUrl="https://pump.fun/5eayDLdACv74f7hWWvZDEGaUAwHhg15XBL2hV8jFpump" /> */}
-    <StickyFooter />
+    {/* <StickyFooter /> */}
   </main>
 );
 };
