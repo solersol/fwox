@@ -89,7 +89,7 @@ const ComingSoon = () => {
       />
 
       <h1 className="text-orange-500 text-4xl drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)] md:text-6xl font-bold mb-32 font-comic">
-        CA: Loading...
+        CA: 2FerCnRdCrNvXegTuGA2cXPstPBVMPSHaWw9gdispump
       </h1>
 
       <a
