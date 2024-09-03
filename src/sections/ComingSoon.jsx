@@ -88,13 +88,13 @@ const ComingSoon = () => {
         className="w-[200px] h-auto md:w-[150px] lg:w-[600px] mb-8"
       />
 
-      <h1 className="text-orange-500 text-8xl drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)] md:text-6xl font-bold mb-8 font-comic">
+      <h1 className="text-orange-500 text-4xl drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)] md:text-6xl font-bold mb-32 font-comic">
         CA: Loading...
       </h1>
 
       <a
         href="https://pump.fun/"
-        className="bg-transparent border-4 border-black rounded-full px-10 py-4 text-black font-bold text-lg hover:bg-black hover:text-white transition-colors duration-300"
+        className="bg-black border-4 border-black rounded-full px-10 py-4 text-white font-bold text-lg hover:bg-transparent hover:text-black transition-colors duration-300"
       >
         Buy Now
       </a>
