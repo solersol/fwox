@@ -12,6 +12,8 @@ import Tokenomics from "./Tokenomics"
 import Roadmap2 from "./Roadmap2"
 import NewSection from "./NewSection"
 import Roadmap3 from "./Roadmap3"
+import Roadmap5 from "./Roadmap5"
+
 import Links from "./Links"
 import Join from "./Join"
 import ComingSoon from './ComingSoon'
@@ -40,5 +42,6 @@ export{
     Join,
     ComingSoon,
     ButtonSection2,
-    Footer2
+    Footer2,
+    Roadmap5
 }

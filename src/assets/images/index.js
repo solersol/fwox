@@ -34,7 +34,7 @@ import topLogo from './topLogo.png'
 import diamondImage from './diamond.png'
 import buttonImage from './buttonImage.png'
 import bed from './bed.png'
-
+import rd5 from './rd5.png'
 
 
 
@@ -82,6 +82,7 @@ export {
     diamondImage,
     buttonImage,
     bed,
+    rd5,
 
 
 
