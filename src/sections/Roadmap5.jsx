@@ -6,11 +6,11 @@ import { rd5 } from '../assets/images';
 const Roadmap5 = () => {
   const cards = [
     { title: "DEX PREPAID", text: "We are so confident of our project we will prepay before KOFH", link: "https://x.com/FWOXSOL" },
-    { title: "BUMP IT", text: "1SOL Will be deposited every 20 mins into the bump it bot to stay at the top of the front page", link: "https://t.me/FWOXsol" },
+    { title: "BUMP IT", text: "1SOL Will be deposited every 20 mins into the bump it bot to stay at the top of the front page", link: "https://t.me/FWOXonSOLANA" },
     { title: "ALPHA GROUPS", text: "Paid influencers from X/Telegram", link: "https://x.com/FWOXSOL" },
-    { title: "TOKEN BURNS", text: "Join the community we will be burning tokens live ", link: "https://t.me/FWOXsol" },
+    { title: "TOKEN BURNS", text: "Join the community we will be burning tokens live ", link: "https://t.me/FWOXonSOLANA" },
     { title: "MOONTOK", text: "MOONTOK Listing from the moment we go live on Raydium", link: "https://x.com/FWOXSOL" },
-    { title: "MORE TO BE REVEALED", text: "We will reveal PhaseII once we are at over 500k mcap", link: "https://t.me/FWOXsol" }
+    { title: "MORE TO BE REVEALED", text: "We will reveal PhaseII once we are at over 500k mcap", link: "https://t.me/FWOXonSOLANA" }
   ];
 
   return (

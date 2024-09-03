@@ -4,7 +4,7 @@
 
 // const ComingSoon = () => {
 //     const cards = [
-//         { title: "TELEGRAM", text: "Join Now", link: "https://t.me/FWOXsol", image: cardImage1, initialRotation: "rotate-[-4deg]", },
+//         { title: "TELEGRAM", text: "Join Now", link: "https://t.me/FWOXonSOLANA", image: cardImage1, initialRotation: "rotate-[-4deg]", },
 //         { title: "X", text: "Join Now", link: "https://x.com/FWOXSOL", image: img1,  initialRotation: "rotate-[6deg]", },
 //       ];
 //   return (
@@ -67,7 +67,7 @@ const ComingSoon = () => {
     {
       title: "TELEGRAM",
       text: "Join Now",
-      link: "https://t.me/FWOXsol",
+      link: "https://t.me/FWOXonSOLANA",
       image: cardImage1,
       initialRotation: "rotate-[-4deg]",
     },
