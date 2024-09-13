@@ -5,12 +5,12 @@ import { rd5 } from '../assets/images';
 
 const Roadmap5 = () => {
   const cards = [
-    { title: "DEX PREPAID", text: "We are so confident of our project we will prepay before KOFH", link: "https://t.me/" },
-    { title: "BUMP IT", text: "1SOL Will be deposited every 20 mins into the bump it bot to stay at the top of the front page", link: "https://t.me/" },
-    { title: "ALPHA GROUPS", text: "Paid influencers from X/Telegram", link: "https://t.me/" },
-    { title: "TOKEN BURNS", text: "Join the community we will be burning tokens live ", link: "https://t.me/" },
-    { title: "MOONTOK", text: "MOONTOK Listing from the moment we go live on Raydium", link: "https://t.me/" },
-    { title: "MORE TO BE REVEALED", text: "We will reveal PhaseII once we are at over 500k mcap", link: "https://t.me/" }
+    { title: "DEX PREPAID", text: "We are so confident of our project we will prepay before KOFH", link: "https://t.me/FWOXYFOX" },
+    { title: "BUMP IT", text: "1SOL Will be deposited every 20 mins into the bump it bot to stay at the top of the front page", link: "https://t.me/FWOXYFOX" },
+    { title: "ALPHA GROUPS", text: "Paid influencers from X/Telegram", link: "https://t.me/FWOXYFOX" },
+    { title: "TOKEN BURNS", text: "Join the community we will be burning tokens live ", link: "https://t.me/FWOXYFOX" },
+    { title: "MOONTOK", text: "MOONTOK Listing from the moment we go live on Raydium", link: "https://t.me/FWOXYFOX" },
+    { title: "MORE TO BE REVEALED", text: "We will reveal PhaseII once we are at over 500k mcap", link: "https://t.me/FWOXYFOX" }
   ];
 
   return (

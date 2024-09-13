@@ -7,7 +7,7 @@
 //     {
 //       title: "TELEGRAM",
 //       text: "Join Now",
-//       link: "https://t.me/",
+//       link: "https://t.me/FWOXYFOX",
 //       image: cardImage1,
 //       initialRotation: "rotate-[-4deg]",
 //     },
@@ -69,7 +69,7 @@ const ComingSoon = () => {
     {
       title: "TELEGRAM",
       text: "Join Now",
-      link: "https://t.me/",
+      link: "https://t.me/FWOXYFOX",
       image: cardImage1,
       initialRotation: "rotate-[-4deg]",
     },
@@ -84,7 +84,7 @@ const ComingSoon = () => {
        />
       {/* Centered CA text */}
       <h1 className="text-orange-500 text-4xl drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)] md:text-6xl font-bold mb-12 font-comic">
-        CA: 
+        CA:
       </h1>
 
       {/* Buy Now button */}
