@@ -26,7 +26,7 @@
 //       </h1>
 
 //       <a
-//         href="https://pump.fun/"
+//         href="https://pump.fun/DGyzFHzDmxiDBKMSQAyCkvnnaUq7Jkrs3yeHoQr8pump"
 //         className="bg-black border-4 border-black rounded-full px-10 py-4 text-white font-bold text-lg hover:bg-transparent hover:text-black transition-colors duration-300 mb-12"
 //       >
 //         Buy Now
@@ -84,12 +84,12 @@ const ComingSoon = () => {
        />
       {/* Centered CA text */}
       <h1 className="text-orange-500 text-4xl drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)] md:text-6xl font-bold mb-12 font-comic">
-        CA:
+        CA:DGyzFHzDmxiDBKMSQAyCkvnnaUq7Jkrs3yeHoQr8pump
       </h1>
 
       {/* Buy Now button */}
       <a
-        href="https://pump.fun/"
+        href="https://pump.fun/DGyzFHzDmxiDBKMSQAyCkvnnaUq7Jkrs3yeHoQr8pump"
         className="bg-black border-4 border-black rounded-full px-10 py-4 text-white font-bold text-lg hover:bg-transparent hover:text-black transition-colors duration-300 mb-12"
       >
         Buy Now
